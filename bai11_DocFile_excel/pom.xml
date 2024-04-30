@@ -1,0 +1,8 @@
+<!--Để giải quyết lỗi "Thư viện Apache POI không được đính kèm đúng cách", bạn có thể thực hiện các bước sau:
+Sử dụng Maven
+Nếu bạn đang sử dụng Maven, bạn có thể thêm Apache POI vào file pom.xml của dự án: -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>5.2.3</version> <!-- Sử dụng phiên bản mới nhất -->
+</dependency>
