@@ -1,0 +1,17 @@
+dang,2003-05-15,quang ninh
+vinh,2004-08-20,bac giang
+son,2002-03-10,thanh hoa
+hai,2000-10-05,ha noi
+the,2002-02-28,bac giang
+nhung,1999-11-12,ha long
+diep,2000-09-03,ninh binh
+phuong,2001-07-18,bac giang
+chi,1999-12-25,ha long
+quan,2000-04-03,nam dinh
+phong,2002-08-10,Los Angeles
+chung,2001-01-20,New York
+Mary,2000-06-08,Chicago
+Nathan,1998-10-30,New York
+Olivia,2001-09-15,Los Angeles
+Peter,1999-03-05,New York
+
