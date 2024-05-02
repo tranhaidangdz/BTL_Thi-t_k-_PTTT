@@ -62,4 +62,16 @@ public class StudentManager {
         }
         return allStudents;
     }
+
+    public List<Student> getSortedByName() {
+        List<Student> allStudents = getAllStudents();
+        allStudents.sort(Comparator.comparing(Student::getName));
+        return allStudents;
+    }
+
+    public List<Student> getSortedByDob() {
+        List<Student> allStudents = getAllStudents();
+        allStudents.sort(Comparator.comparing(Student::getDob).reversed());
+        return allStudents;
+    }
 }
